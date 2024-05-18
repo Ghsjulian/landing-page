@@ -21,7 +21,7 @@
 
 ---
 
-<a href="https://github.com/ghsjulian" target="_blank"> Clik Here</a>
+<a href="https://ghsjulian.github.io/landing-page/" target="_blank"> Clik Here</a>
 
 ---
 
